@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="th.co.ais.mimo.mavenlibrary" >
+    <application>
+        <activity android:name=".FungusActivity"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+</manifest>
